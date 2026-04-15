@@ -1,0 +1,20 @@
+.boton {
+    background-color: var(--Green-500);
+    border-radius: 8px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+}
+.icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 4px;
+}
+.contenido {
+    font-family: var(--font-montserrat);
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--White);
+}
